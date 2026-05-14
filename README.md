@@ -1,0 +1,1 @@
+This project is a Hostel Management System developed in C++ using Object-Oriented Programming (OOP) concepts. The system helps manage hostel students, room allocation, fee records, and room availability through a menu-driven console application.
